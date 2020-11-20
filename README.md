@@ -30,7 +30,7 @@
 
 
 
-•git clone https://github.com/JWYT/SpmcallV1
+•git clone https://github.com/JWYT/SpamCallV1
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-•cd SpmcallV1
+•cd SpamCallV1
 
 
 
